@@ -13,7 +13,7 @@ analysis, not just technique.
 
 **M.S. Computer Science** · Georgia Institute of Technology · *in progress, ML specialization*  
 **B.S. Biology**  
-**A.A.S. Software Development**  · AI Track
+**A.A.S. Software Development**  · AI Track  
 **Certificate** · Python for Data Analytics · AI Track
 
 ---
