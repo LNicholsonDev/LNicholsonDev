@@ -3,7 +3,7 @@
 A Biologist became a Software Developer too.  
 Finishing an M.S. in Computer Science at Georgia Tech, machine learning specialization.
 
-That path shows up in my work: most of my projects involve healthcare, 
+That path shows in my work - most of my projects involve healthcare, 
 ecology, or business data. These are domains where I can bring context to the 
 analysis, not just technique.
 
@@ -52,9 +52,9 @@ analysis, not just technique.
 | Project | Description | Tools |
 |---|---|---|
 | [**Predictive ML Models — Healthcare, Finance & Agriculture**](https://github.com/LNicholsonDev/Machine-Learning-Models) | Six models across logistic regression, decision trees, naive bayes, and neural networks. Predicts heart disease, diabetes likelihood, loan repayment, customer churn, and crop yield from real-world datasets | Scikit-learn · TensorFlow · Python |
-| [**Marketing & Product Performance Analysis**](https://github.com/LNicholsonDev/Data-Visualization/blob/main/Leah_Nicholson_Business_Case_Study.ipynb) | End-to-end business analysis — ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations derived from historical campaign data | Pandas · Seaborn · Matplotlib |
-| [**Child Mortality Trends 1900–2020**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/MortalityAnalysis) | Longitudinal analysis across four pediatric age groups over 120 years, with annotated visualizations surfacing the 1918 influenza anomaly against the broader structural decline | Seaborn · Matplotlib |
-| [**Ponderosa Pine Climate Regression**](https://github.com/LNicholsonDev/Discrete-Math) | Regression analysis of North American conifer field survey data examining how latitude and minimum temperature predict stored energy (AET) in Ponderosa Pines | Python · Excel · Regression Analysis |
+| [**Marketing & Product Performance Analysis**](https://github.com/LNicholsonDev/Data-Visualization/blob/main/Leah_Nicholson_Business_Case_Study.ipynb) | End-to-end business analysis - ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations derived from historical campaign data | Pandas · Seaborn · Matplotlib |
+| [**Child Mortality Trends 1900–2018**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/MortalityAnalysis) | Longitudinal analysis across four pediatric age groups over 119 years, with annotated visualizations surfacing the 1918 influenza anomaly against the broader structural decline | Seaborn · Matplotlib |
+| [**Ponderosa Pine Climate Regression**](https://github.com/LNicholsonDev/Regression-Analysis) | Regression analysis of North American conifer field survey data examining how latitude and minimum temperature predict stored energy (AET) in Ponderosa Pines | Python · Excel · Regression Analysis |
 | [**Car Dealership Inventory Analysis**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/CarInventory_DataAnalysis) | Exploratory pricing and inventory analysis covering body type distribution, engine sizing, aspiration type, and curb weight trends using pivot tables and grouped aggregations | Pandas · Matplotlib |
 | [**Relational Database Design**](https://github.com/LNicholsonDev/Database-Design) | Schema design and complete DDL/DML implementation with stored procedures, normalized relational structure, and complex multi-table queries | SQL · T-SQL · PostgreSQL |
 
