@@ -1,6 +1,6 @@
 # Leah Nicholson
 
-A Biologist became a Software Developer too.  
+A Biologist became a Software Developer.  
 Finishing an M.S. in Computer Science at Georgia Tech, machine learning specialization.
 
 That path shows in my work - most of my projects involve healthcare, 
