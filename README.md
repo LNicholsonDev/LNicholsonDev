@@ -4,7 +4,7 @@ A Biologist became a Software Developer.
 Finishing an M.S. in Computer Science at Georgia Tech, machine learning specialization.
 
 That path shows up in my work - most of my projects involve healthcare, 
-ecology, or business data. These are domains where I can bring context to the 
+research, or business data. These are domains where I can bring context to the 
 analysis, alongside technique.
 
 ---
