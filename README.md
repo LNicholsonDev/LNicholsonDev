@@ -1,11 +1,10 @@
 # Leah Nicholson
 
-A Biologist became a Software Developer.  
-Finishing an M.S. in Computer Science at Georgia Tech, machine learning specialization.
+Biologist working at the intersection of bioinformatics, data analysis, and software development.
 
-That path shows up in my work - most of my projects involve healthcare, 
-research, or business data. These are domains where I can bring context to the 
-analysis, alongside technique.
+Finishing an M.S. in Computer Science at Georgia Tech, specializing in machine learning.
+
+My work combines biological domain knowledge with computational analysis — from 16S rRNA microbiome sequencing and ecological data to healthcare, machine learning, and software projects.
 
 ---
 
@@ -25,6 +24,19 @@ analysis, alongside technique.
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+**Bioinformatics**
+
+![mothur](https://img.shields.io/badge/mothur-2E6F7E?style=flat)
+![16S rRNA](https://img.shields.io/badge/16S_rRNA-A23B72?style=flat)
+![SILVA](https://img.shields.io/badge/SILVA-4C956C?style=flat)
+![UCHIME](https://img.shields.io/badge/UCHIME-52796F?style=flat)
+![Microbial Ecology](https://img.shields.io/badge/Microbial_Ecology-386641?style=flat)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
 **Libraries & Frameworks**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -33,11 +45,6 @@ analysis, alongside technique.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Tools**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -52,6 +59,7 @@ analysis, alongside technique.
 | Project | Description | Tools |
 |---|---|---|
 | [**Predictive ML Models - Healthcare, Business, Finance & Agriculture**](https://github.com/LNicholsonDev/Machine-Learning-Models) | Six models across logistic regression, decision trees, naive bayes, and neural networks. Predicts heart disease, diabetes likelihood, loan repayment, customer churn, and crop yield from real-world datasets | Scikit-learn · TensorFlow · Python |
+| [Lōʻihi 16S rRNA Microbiome Analysis](https://github.com/LNicholsonDev/Loihi-16S-rRNA-Gene-Sequencing-Project) | 16S amplicon sequencing analysis of Lōʻihi seamount microbial communities, including sequence QC, SILVA alignment, chimera removal, 97% OTU clustering, taxonomic profiling, and rarefaction analysis | mothur · 16S rRNA · Bioinformatics · Microbial Ecology |
 | [**Marketing & Product Performance Analysis**](https://github.com/LNicholsonDev/Data-Visualization/blob/main/Leah_Nicholson_Business_Case_Study.ipynb) | End-to-end business analysis - ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations derived from historical campaign data | Pandas · Seaborn · Matplotlib |
 | [**Child Mortality Trends 1900–2018**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/MortalityAnalysis) | Longitudinal analysis across four pediatric age groups over 119 years, with annotated visualizations surfacing the 1918 influenza anomaly against the broader structural decline | Seaborn · Matplotlib |
 | [**Ponderosa Pine Climate Regression**](https://github.com/LNicholsonDev/Regression-Analysis) | Regression analysis of North American conifer field survey data examining how latitude and minimum temperature predict stored energy (AET) in Ponderosa Pines | Python · Excel · Regression Analysis |
