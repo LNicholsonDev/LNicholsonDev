@@ -1,6 +1,6 @@
 # Leah Nicholson
 
-Software developer and data professional working across machine learning, bioinformatics, and scientific computing.
+Software developer and data analyst working across machine learning, bioinformatics, and scientific computing.
 
 Finishing an M.S. in Computer Science at Georgia Tech, specializing in machine learning, with a B.S. in Biology.
 
@@ -46,7 +46,7 @@ My work combines software development and computational analysis with domain exp
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-**Tools**  
+**Methods / Tools**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -60,11 +60,11 @@ My work combines software development and computational analysis with domain exp
 |---|---|---|
 | [**Predictive ML Models - Healthcare, Business, Finance & Agriculture**](https://github.com/LNicholsonDev/Machine-Learning-Models) | Six models across logistic regression, decision trees, naive bayes, and neural networks. Predicts heart disease, diabetes likelihood, loan repayment, customer churn, and crop yield from real-world datasets | Scikit-learn · TensorFlow · Python |
 | [**Lōʻihi 16S rRNA Microbiome Analysis**](https://github.com/LNicholsonDev/Loihi-16S-rRNA-Gene-Sequencing-Project) | 16S amplicon sequencing analysis of Lōʻihi seamount microbial communities, including sequence QC, SILVA alignment, chimera removal, 97% OTU clustering, taxonomic profiling, and rarefaction analysis | mothur · 16S rRNA · Bioinformatics · Microbial Ecology |
-| [**Marketing & Product Performance Analysis**](https://github.com/LNicholsonDev/Data-Visualization/blob/main/Leah_Nicholson_Business_Case_Study.ipynb) | End-to-end business analysis - ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations derived from historical campaign data | Pandas · Seaborn · Matplotlib |
-| [**Child Mortality Trends 1900–2018**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/MortalityAnalysis) | Longitudinal analysis across four pediatric age groups over 119 years, with annotated visualizations surfacing the 1918 influenza anomaly against the broader structural decline | Seaborn · Matplotlib |
 | [**Ponderosa Pine Climate Regression**](https://github.com/LNicholsonDev/Regression-Analysis) | Regression analysis of North American conifer field survey data examining how latitude and minimum temperature predict stored energy (AET) in Ponderosa Pines | Python · Excel · Regression Analysis |
-| [**Car Dealership Inventory Analysis**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/CarInventory_DataAnalysis) | Exploratory pricing and inventory analysis covering body type distribution, engine sizing, aspiration type, and curb weight trends using pivot tables and grouped aggregations | Pandas · Matplotlib |
 | [**Relational Database Design**](https://github.com/LNicholsonDev/Database-Design) | Schema design and complete DDL/DML implementation with stored procedures, normalized relational structure, and complex multi-table queries | SQL · T-SQL · PostgreSQL |
+| [**Child Mortality Trends 1900–2018**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/MortalityAnalysis) | Longitudinal analysis across four pediatric age groups over 119 years, with annotated visualizations surfacing the 1918 influenza anomaly against the broader structural decline | Seaborn · Matplotlib |
+| [**Marketing & Product Performance Analysis**](https://github.com/LNicholsonDev/Data-Visualization/blob/main/Leah_Nicholson_Business_Case_Study.ipynb) | End-to-end business analysis - ROI by channel, product segmentation, correlation heatmaps, and spend optimization recommendations derived from historical campaign data | Pandas · Seaborn · Matplotlib |
+| [**Car Dealership Inventory Analysis**](https://github.com/LNicholsonDev/Data-Visualization/tree/main/CarInventory_DataAnalysis) | Exploratory pricing and inventory analysis covering body type distribution, engine sizing, aspiration type, and curb weight trends using pivot tables and grouped aggregations | Pandas · Matplotlib |
 
 ---
 
