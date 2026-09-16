@@ -1,10 +1,10 @@
 # Leah Nicholson
 
-Biologist working at the intersection of bioinformatics, data analysis, and software development.
+Software developer and data professional working across machine learning, bioinformatics, and scientific computing.
 
-Finishing an M.S. in Computer Science at Georgia Tech, specializing in machine learning.
+Finishing an M.S. in Computer Science at Georgia Tech, specializing in machine learning, with a B.S. in Biology.
 
-My work combines biological domain knowledge with computational analysis — from 16S rRNA microbiome sequencing and ecological data to healthcare, machine learning, and software projects.
+My work combines software development and computational analysis with domain experience in biology, healthcare, ecology, and data-intensive research.
 
 ---
 
@@ -32,11 +32,6 @@ My work combines biological domain knowledge with computational analysis — fro
 ![UCHIME](https://img.shields.io/badge/UCHIME-52796F?style=flat)
 ![Microbial Ecology](https://img.shields.io/badge/Microbial_Ecology-386641?style=flat)
 
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-
 **Libraries & Frameworks**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -45,6 +40,11 @@ My work combines biological domain knowledge with computational analysis — fro
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
 **Tools**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
